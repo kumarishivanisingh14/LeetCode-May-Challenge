@@ -24,5 +24,7 @@ Week 3 :
 1. Maximum Sum Circular Subarray
 2. Odd Even Linked List
 3. Find All Anagrams in a String
+4. Permutation in String
+5. Online Stock Span
 
 
