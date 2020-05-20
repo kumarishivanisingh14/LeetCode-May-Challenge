@@ -26,5 +26,7 @@ Week 3 :
 3. Find All Anagrams in a String
 4. Permutation in String
 5. Online Stock Span
+6.  Kth Smallest Element in a BST
+
 
 
