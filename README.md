@@ -27,6 +27,7 @@ Week 3 :
 4. Permutation in String
 5. Online Stock Span
 6. Kth Smallest Element in a BST
+7. Count Square Submatrices with All Ones
 
 
 
