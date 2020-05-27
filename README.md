@@ -34,6 +34,9 @@ Week 4 :
 2. Interval List Intersections
 3. Construct Binary Search Tree from Preorder Traversal
 4. Uncrossed Lines
+5. Contiguous Array
+6. Possible Bipartition
+
 
 
 
