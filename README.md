@@ -36,6 +36,7 @@ Week 4 :
 4. Uncrossed Lines
 5. Contiguous Array
 6. Possible Bipartition
+7. Counting Bits
 
 
 
