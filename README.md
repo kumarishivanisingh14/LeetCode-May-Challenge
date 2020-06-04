@@ -38,6 +38,12 @@ Week 4 :
 6. Possible Bipartition
 7. Counting Bits
 
+Week 5 :
+1. Course Schedule
+2.
+3.
+
+
 
 
 
