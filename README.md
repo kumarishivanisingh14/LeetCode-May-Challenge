@@ -38,6 +38,13 @@ Week 4 :
 6. Possible Bipartition
 7. Counting Bits
 
+Week 5 :
+1. Course Schedule
+2. K Closest Points to Origin
+3. Edit Distance
+
+
+
 
 
 
