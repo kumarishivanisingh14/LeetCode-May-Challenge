@@ -40,8 +40,9 @@ Week 4 :
 
 Week 5 :
 1. Course Schedule
-2.
-3.
+2. K Closest Points to Origin
+3. Edit Distance
+
 
 
 
